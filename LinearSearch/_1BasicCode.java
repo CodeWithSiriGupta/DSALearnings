@@ -1,6 +1,6 @@
 package LinearSearch;
 
-public class _1Code {
+public class _1BasicCode {
 
     public static void main(String[] args) {
       int[] arr = { 12, 45, 1 , 4, 7, 13, 19};
@@ -61,3 +61,4 @@ public class _1Code {
         return -1;
     }
 }
+
